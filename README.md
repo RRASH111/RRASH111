@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani Shwaiki</h1>
 <h3 align="center">A passionate Full-Stack developer from Palestine</h3>
 
-- 👨‍💻 All of my projects are available at Rany.tach
+- 👨‍💻 All of my projects are available at [Rany.tach](http://portfolio.rany.tech/)
 
 - 📫 How to reach me **ranishwaiki3@gmail.com**
 
