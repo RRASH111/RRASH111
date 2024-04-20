@@ -8,10 +8,6 @@
 </div>
 
 ###
-<div align="left">
-<a href="https://gitroll.io/profile/umrgohC7pEje3xqjqV3pxTVIlW3D2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umrgohC7pEje3xqjqV3pxTVIlW3D2" alt="GitRoll Profile Badge"/></a>
-</div>
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
