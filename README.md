@@ -1,16 +1,5 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://github.com/RRASH111">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A9B7C6&center=true&vCenter=true&width=520&lines=Software+Engineer;Open-source+contributor;CEO+%40+IzTechValley;I+build+the+company+and+the+code" alt="typing header" />
-</a>
-
-</div>
-
-###
-
-<div align="center">
-
 I'm **Rani** — a software engineer who ships products end-to-end with **TypeScript, React, Next.js & Python**.<br/>
 Based in Hebron 🇵🇸. I also happen to run a tech company, but I never stopped writing code.
 
