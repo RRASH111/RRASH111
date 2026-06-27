@@ -44,8 +44,8 @@ Based in Hebron 🇵🇸. I also happen to run a tech company, but I never stopp
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RRASH111&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=A9B7C6&icon_color=A9B7C6&text_color=8B949E&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRASH111&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=A9B7C6&text_color=8B949E&langs_count=8" alt="top languages" />
+<img height="170" src="https://git-umber-phi.vercel.app/api?username=RRASH111&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=A9B7C6&icon_color=A9B7C6&text_color=8B949E&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="170" src="https://git-umber-phi.vercel.app/api/top-langs/?username=RRASH111&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=A9B7C6&text_color=8B949E&langs_count=8&count_private=true" alt="top languages" />
 
 </div>
 
